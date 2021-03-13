@@ -6,4 +6,8 @@ registerSW();
 
 /* place your code below */
 
-console.log('HELLO 🚀')
+const counter = document.querySelector('.glass__counter--js');
+const add = document.querySelector('.button--add--js');
+const remove = document.querySelector('.button--remove--js');
+
+console.log(counter)

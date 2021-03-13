@@ -1,8 +1,8 @@
 {
   "name": "hydrapp",
   "short_name": "hydrapp",
-  "theme_color": "#204b57",
-  "background_color": "#204b57",
+  "theme_color": "#3767AD",
+  "background_color": "#3767AD",
   "display": "standalone",
   "orientation": "portrait",
   "scope": "/hydrapp/",
